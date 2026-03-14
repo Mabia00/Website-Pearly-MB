@@ -1,4 +1,4 @@
-# Skincare Landing Page 🌿
+# Landing Page 🌿
 
 Hydration Skincare Landing Page
 
