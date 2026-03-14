@@ -45,7 +45,7 @@ The layout adapts to different screen sizes:
 
 - Media queries were used to reorganize elements and maintain usability across devices.
 
-📂 ## Project Structure project-folder
+## Project Structure project-folder
 
 ![Structure](Structure.png)
 
