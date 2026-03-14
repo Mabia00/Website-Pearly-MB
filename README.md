@@ -47,7 +47,7 @@ The layout adapts to different screen sizes:
 
 ## Project Structure project-folder
 
-![Structure](Structure.png)
+![Preview](Structure.png)
 
 ## What I Learned
 
