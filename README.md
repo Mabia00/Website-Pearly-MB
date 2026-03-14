@@ -47,7 +47,7 @@ The layout adapts to different screen sizes:
 
 📂 ## Project Structure project-folder
 
-
+![Structure](Structure.png)
 
 ## What I Learned
 
@@ -63,6 +63,6 @@ During this project I practiced:
 
 ## Preview
 
-
+![Preview](assets/PearlyMB.gif)
 
 --- Developed by Mabia! ---
