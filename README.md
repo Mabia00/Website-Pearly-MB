@@ -1,6 +1,6 @@
-# Landing Page 🌿
+# Website Pearly MB 🌿
 
-Hydration Skincare Landing Page
+Skincare Landing Page
 
 ## About the Project
 
@@ -12,6 +12,8 @@ The goal of the project was to practice front-end layout structure and responsiv
 - **HTML5**
 
 - **CSS3**
+
+- **Figma**
 
 - **Flexbox**
 
@@ -47,7 +49,7 @@ The layout adapts to different screen sizes:
 
 ## Project Structure project-folder
 
-![Preview](Structure.png)
+![Preview](assets/Structure.png)
 
 ## What I Learned
 
