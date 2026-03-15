@@ -65,6 +65,14 @@ During this project I practiced:
 
 ## Preview
 
+![Preview](assets/figmaimgg.png)
+
+---
+
+![Preview](assets/figmaimg.png)
+
+---
+
 ![Preview](assets/PearlyMB.gif)
 
 --- Developed by Mabia! ---
